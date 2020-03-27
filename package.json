@@ -1,5 +1,5 @@
 {
-    "name": "Guestbook",
+    "name": "guestbook",
     "description": "A Guestbook App",
     "version": "1.0.0",
     "engines": {
