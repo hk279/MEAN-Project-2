@@ -5,7 +5,9 @@
     "engines": {
         "node": "10.15.1"
     },
+    "main": "guestbook.js",
     "scripts": {
         "start": "node guestbook.js"
-    }
+    },
+    "dependencies": {}
 }
