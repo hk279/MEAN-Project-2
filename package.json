@@ -6,7 +6,7 @@
         "node": "10.15.1"
     },
     "scripts": {
-        "start": "node index.js",
+        "start": "node guestbook.js",
         "build": "webpack"
     }
 }
