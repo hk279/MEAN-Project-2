@@ -1,12 +1,11 @@
 {
-    "name": "myapp",
-    "description": "a really cool app",
+    "name": "Guestbook",
+    "description": "A Guestbook App",
     "version": "1.0.0",
     "engines": {
         "node": "10.15.1"
     },
     "scripts": {
-        "start": "node guestbook.js",
-        "build": "webpack"
+        "start": "node guestbook.js"
     }
 }
